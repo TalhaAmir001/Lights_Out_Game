@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
         gridView = findViewById(R.id.gameGrid_GV_Id);
         reset = findViewById(R.id.resetGame_B_Id);
 
-        //I hope it recoganizes the changes
+        //I hope it recoganizes the changes and hopefully reach everyone
 
         int[] lightId = {R.drawable.lights_off, R.drawable.lights_off, R.drawable.lights_off, R.drawable.lights_off, R.drawable.lights_off
                 , R.drawable.lights_off, R.drawable.lights_off, R.drawable.lights_off, R.drawable.lights_off, R.drawable.lights_off
